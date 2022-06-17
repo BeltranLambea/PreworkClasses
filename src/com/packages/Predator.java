@@ -18,6 +18,7 @@ public class Predator {
         this.setAge(age);
         this.setHuntedPreyCount(0);
         this.setHungry(true);
+        //saludos
     }
 
     public void hunt(){
